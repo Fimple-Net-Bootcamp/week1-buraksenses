@@ -1,0 +1,14 @@
+D:\SIRHOT\.NET Projects\LibraryManagementSystemApp\LibraryManagementSystemApp\bin\Debug\net7.0\LibraryManagementSystemApp.exe
+D:\SIRHOT\.NET Projects\LibraryManagementSystemApp\LibraryManagementSystemApp\bin\Debug\net7.0\LibraryManagementSystemApp.deps.json
+D:\SIRHOT\.NET Projects\LibraryManagementSystemApp\LibraryManagementSystemApp\bin\Debug\net7.0\LibraryManagementSystemApp.runtimeconfig.json
+D:\SIRHOT\.NET Projects\LibraryManagementSystemApp\LibraryManagementSystemApp\bin\Debug\net7.0\LibraryManagementSystemApp.dll
+D:\SIRHOT\.NET Projects\LibraryManagementSystemApp\LibraryManagementSystemApp\bin\Debug\net7.0\LibraryManagementSystemApp.pdb
+D:\SIRHOT\.NET Projects\LibraryManagementSystemApp\LibraryManagementSystemApp\obj\Debug\net7.0\LibraryManagementSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SIRHOT\.NET Projects\LibraryManagementSystemApp\LibraryManagementSystemApp\obj\Debug\net7.0\LibraryManagementSystemApp.AssemblyInfoInputs.cache
+D:\SIRHOT\.NET Projects\LibraryManagementSystemApp\LibraryManagementSystemApp\obj\Debug\net7.0\LibraryManagementSystemApp.AssemblyInfo.cs
+D:\SIRHOT\.NET Projects\LibraryManagementSystemApp\LibraryManagementSystemApp\obj\Debug\net7.0\LibraryManagementSystemApp.csproj.CoreCompileInputs.cache
+D:\SIRHOT\.NET Projects\LibraryManagementSystemApp\LibraryManagementSystemApp\obj\Debug\net7.0\LibraryManagementSystemApp.dll
+D:\SIRHOT\.NET Projects\LibraryManagementSystemApp\LibraryManagementSystemApp\obj\Debug\net7.0\refint\LibraryManagementSystemApp.dll
+D:\SIRHOT\.NET Projects\LibraryManagementSystemApp\LibraryManagementSystemApp\obj\Debug\net7.0\LibraryManagementSystemApp.pdb
+D:\SIRHOT\.NET Projects\LibraryManagementSystemApp\LibraryManagementSystemApp\obj\Debug\net7.0\LibraryManagementSystemApp.genruntimeconfig.cache
+D:\SIRHOT\.NET Projects\LibraryManagementSystemApp\LibraryManagementSystemApp\obj\Debug\net7.0\ref\LibraryManagementSystemApp.dll
